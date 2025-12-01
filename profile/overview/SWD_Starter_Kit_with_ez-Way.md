@@ -4,9 +4,9 @@ The SWD® Starter Kit with ez-Way® is designed to facilitate and accelerate the
 
 This version of the Starter Kit comes with the ez-Way® software featuring SLAM navigation for virtual line following.
 
-| ![SWD® Starter Kit ez-Way®](https://www.ez-wheel.com/storage/card-product-variation/ew2a-skxxx-ez-way-28082025.png) |
+| ![SWD® Starter Kit with ez-Way®](https://www.ez-wheel.com/storage/card-product-variation/ew2a-skxxx-ez-way-28082025.png) |
 | - |
-| [SWD® Starter Kit ez-Way®](https://www.ez-wheel.com/en/development-kit-for-agv-and-amr) |
+| [SWD® Starter Kit with ez-Way®](https://www.ez-wheel.com/en/development-kit-for-agv-and-amr) |
 
 <!--
 ## Resources
