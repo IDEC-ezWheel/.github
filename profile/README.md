@@ -7,9 +7,15 @@
 
 ## Introduction
 
-Welcome to the IDEC-ezWheel GitHub. 
+Welcome to the IDEC-ezWheel GitHub!
 
-EZ-WHEEL®, A BRAND OF THE IDEC CORPORATION GROUP.
+**EZ-WHEEL®, A BRAND OF THE IDEC CORPORATION GROUP.**
+
+With over 15 years of innovation in smart mobility, ez-Wheel delivers a unique range of integrated wheel-drive solutions that simplify system design by embedding motors, batteries, and safe motion control directly into the wheels. Through its AWD® Assist Wheel Drive and SWD® Safety Wheel Drive product ranges, ez-Wheel enables easier and safer heavy-load handling and automation for leading industrial companies.
+
+This space showcases our contributions to the open-source community and provides resources that help developers integrate and extend ez-Wheel technologies. Here, you’ll find tools, code samples, and examples of implementation. We encourage contributions, feedback, and shared learning to drive the future of smart mobility together.
+
+Follow us to join the community and stay up to date!
 
 You can also visit our websites:
 
