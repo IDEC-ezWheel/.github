@@ -1,5 +1,7 @@
 # SWD® Starter Kit with ROS
 
+[<- BACK](https://github.com/IDEC-ezWheel/.github/blob/main/profile/README.md#community-resources)
+
 The SWD® Starter Kit with ROS is designed to facilitate and accelerate the development of AGVs and AMRs using ez-Wheel’s exclusive SWD® Safety Wheel Drive technology and a SE2L safety laser scanner.
 
 This version of the Starter Kit comes with ROS open-source middleware and the drivers for the control of the platform.

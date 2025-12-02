@@ -1,5 +1,7 @@
 # SWD® Drive & Wheel Drive (CANopen)
 
+[<- BACK](https://github.com/IDEC-ezWheel/.github/blob/main/profile/README.md#community-resources)
+
 The SWD® Safety Wheel Drive provides a simple, versatile, and safety compliant technological brick for system integrators and AGV/AMR manufacturers. 
 
 In addition to electric traction functions, SWD® motorizations natively embed safety, especially safe motion control and safety encoder.

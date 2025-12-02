@@ -1,5 +1,7 @@
 # ez-Way® powered solutions
 
+[<- BACK](https://github.com/IDEC-ezWheel/.github/blob/main/profile/README.md#community-resources)
+
 ez-Way® is a software for controlling and navigating mobile robots, ensuring smooth and efficient operations.
 
 Installed on each machine, it guarantees mobile robot management, robot localization, navigation, and mission execution.

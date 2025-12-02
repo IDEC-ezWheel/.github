@@ -1,5 +1,7 @@
 # SWD® Starter Kit with ez-Way®
 
+[<- BACK](https://github.com/IDEC-ezWheel/.github/blob/main/profile/README.md#community-resources)
+
 The SWD® Starter Kit with ez-Way® is designed to facilitate and accelerate the development of AGVs and AMRs using ez-Wheel’s exclusive SWD® Safety Wheel Drive technology, a SE2L safety laser scanner and ez-Way® navigation software.
 
 This version of the Starter Kit comes with the ez-Way® software featuring SLAM navigation for virtual line following.
