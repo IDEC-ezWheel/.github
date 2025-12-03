@@ -5,22 +5,15 @@
 
 # IDEC ez-Wheel Open Source Community
 
+**[EZ-WHEEL®](https://www.ez-wheel.com/en), A BRAND OF THE [IDEC CORPORATION](https://us.idec.com/) GROUP.**
+
 ## Introduction
-
-Welcome to the IDEC-ezWheel GitHub!
-
-**EZ-WHEEL®, A BRAND OF THE IDEC CORPORATION GROUP.**
 
 With over 15 years of innovation in smart mobility, ez-Wheel delivers a unique range of integrated wheel-drive solutions that simplify system design by embedding motors, batteries, and safe motion control directly into the wheels. The SWD® Safety Wheel Drive product range complements IDEC safety components to provide integrated, reliable and innovative solutions for automating rolling equipment like AGVs and AMRs.
 
 This space showcases our contributions to the open-source community and provides resources that help developers integrate and extend ez-Wheel technologies. Here, you’ll find tools, code samples, and examples of implementation. We encourage contributions, feedback, and shared learning to drive the future of smart mobility together.
 
 Follow us to join the community and stay up to date!
-
-You can also visit our websites:
-
-[![IDEC Corporation](https://img.shields.io/badge/IDEC_Corporation-a30000)](https://us.idec.com/)
-[![ez-Wheel](https://img.shields.io/badge/ez--Wheel-009ee1)](https://www.ez-wheel.com/en)
 
 ## Community Resources
 
