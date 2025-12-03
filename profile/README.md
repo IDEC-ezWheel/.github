@@ -30,7 +30,8 @@ Find below a summary of all the resources, documentation and examples available 
 * [SWD® Starter Kit with ROS](https://github.com/IDEC-ezWheel/.github/blob/main/profile/overview/SWD_Starter_Kit_with_ROS.md)
 * [SWD® Starter Kit with ez-Way®](https://github.com/IDEC-ezWheel/.github/blob/main/profile/overview/SWD_Starter_Kit_with_ez-Way.md)
 * [ez-Way® powered solutions](https://github.com/IDEC-ezWheel/.github/blob/main/profile/overview/ez-Way_powered_solutions.md)
-
+<!--
 ## More IDEC Projects
 
 [![IDEC Corporation](https://img.shields.io/badge/github-IDEC_Corporation-a30000?logo=github)](https://github.com/idec-co)
+-->
