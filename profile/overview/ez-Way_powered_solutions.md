@@ -14,13 +14,11 @@ Installed on each machine, it guarantees mobile robot management, robot localiza
 
 ## Documentation
 
-To access the following documentation, you must be connected to the access point of a robot with ez-Way® installed.
-
 | Name | Description |
 | - | - |
-| [ez-Way® Documentation](http://10.42.0.1:8088/docs) | This page contains the ez-Way® documentation |
-| [MQTT API Reference](http://10.42.0.1:8088/docs/mqtt_api_reference.html) | This page contains the "MQTT API Reference" section of the ez-Way® documentation |
-| [Errors Reference](http://10.42.0.1:8088/docs/errors_reference.html) | This page contains the "Errors Reference" section of the ez-Way® documentation |
+| [ez-Way® Documentation](https://download.ez-wheel.com/ez-way_doc/html/index.html) | This page contains the ez-Way® documentation |
+| [MQTT API Reference](https://download.ez-wheel.com/ez-way_doc/html/errors_reference.html) | This page contains the "MQTT API Reference" section of the ez-Way® documentation |
+| [Errors Reference](https://download.ez-wheel.com/ez-way_doc/html/mqtt_api_reference.html) | This page contains the "Errors Reference" section of the ez-Way® documentation |
 
 ## Examples
 
