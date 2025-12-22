@@ -17,8 +17,8 @@ Installed on each machine, it guarantees mobile robot management, robot localiza
 | Name | Description |
 | - | - |
 | [ez-Way® Documentation](https://download.ez-wheel.com/ez-way_doc/html/index.html) | This page contains the ez-Way® documentation |
-| [MQTT API Reference](https://download.ez-wheel.com/ez-way_doc/html/errors_reference.html) | This page contains the "MQTT API Reference" section of the ez-Way® documentation |
-| [Errors Reference](https://download.ez-wheel.com/ez-way_doc/html/mqtt_api_reference.html) | This page contains the "Errors Reference" section of the ez-Way® documentation |
+| [MQTT API Reference](https://download.ez-wheel.com/ez-way_doc/html/mqtt_api_reference.html) | This page contains the "MQTT API Reference" section of the ez-Way® documentation |
+| [Errors Reference](https://download.ez-wheel.com/ez-way_doc/html/errors_reference.html) | This page contains the "Errors Reference" section of the ez-Way® documentation |
 
 ## Examples
 
